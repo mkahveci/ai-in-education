@@ -1,8 +1,7 @@
 # AI Tools in Education Project
 
 ### Abstract
-
-This project focuses on integrating artificial intelligence into K-12 science education. It addresses two primary objectives: first, the development of custom AI prompts to serve as interactive learning assistants for science concepts; and second, the creation of AI-scaffolded materials to support English Language Learners (ELLs). The aim is to demonstrate how these tools can enhance personalized learning and improve academic accessibility for diverse student populations, drawing from my experience as a high school science teacher.
+This project pioneers the development and validation of adaptable **AI-driven pedagogical tools** designed to enhance content mastery and academic equity across diverse learning contexts, from **secondary science** to **undergraduate chemistry and research**. It addresses two primary objectives: first, the development of custom generative AI prompts to serve as interactive, Socratic learning assistants for complex STEM concepts; and second, the creation of AI-scaffolded materials to improve accessibility for **English Language Learners (ELLs)**. Drawing upon two decades of experience in university and high school chemistry education, the project demonstrates a scalable framework for designing evidence-based resources that enhance personalized learning and foster global educational advancements.
 
 ### Project Details
 
