@@ -11,7 +11,7 @@ This project focuses on integrating artificial intelligence into K-12 science ed
 * **Date:** 2025-09-27
 * **Author:** Murat Kahveci
 * **Status:** In Progress
-* **Keywords:** AI in education, physics, chemistry, ELL support, prompt engineering, Python
+* **Keywords:** AI in education, physics, chemistry, ELL support, prompt engineering, Python 
 
 ### Repository Structure
 
