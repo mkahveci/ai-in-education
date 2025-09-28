@@ -15,7 +15,7 @@ This project pioneers the development and validation of adaptable **AI-driven pe
 ### Repository Structure
 
 - `README.md`: Contains project details.
-- `/data`: Contains files with examples of custom prompts.
+- `/docs`: Contains files with examples of custom prompts.
 
 ### Custom Prompt Library
 
