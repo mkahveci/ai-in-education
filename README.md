@@ -28,7 +28,7 @@ This project includes a curated library of custom prompts designed for specific 
 | **Socratic Chemistry Tutor** | Stoichiometry | Guides students through complex calculations step-by-step using only guiding questions. | [View Prompt](https://www.google.com/search?q=_prompts/socratic_chemistry_tutor.md) | 
 | **ELL Text Simplifier** | Vocabulary / Reading | Takes a dense scientific paragraph and outputs a simplified version with a target vocabulary list. | [View Prompt](https://www.google.com/search?q=_prompts/ell_text_simplifier.md) | 
 | **Reaction Mechanism Explainer** | Organic Chemistry | Acts as a visual aid describer, explaining reaction steps in accessible language. | [View Prompt](https://www.google.com/search?q=_prompts/reaction_mechanism.md) | 
-| **Balancing Equation Scaffolder** | General Chemistry | Breaks down the steps for balancing complex equations, asking the user to confirm each step. | [View Prompt](https://www.google.com/search?q=_prompts/balancing_scaffolder.md) | 
+| **Balancing Equation Scaffolder** | General Chemistry | Breaks down the steps for balancing complex equations, asking the user to confirm each step. | [View Prompt](https://www.google.com/search?q=_prompts/balancing_scaffolder.md) |  
 | ... | ... | ... | ... | 
 
 ### Usage Information
