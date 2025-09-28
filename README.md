@@ -8,7 +8,7 @@
 
 ### Abstract
 
-This project focuses on integrating artificial intelligence into K-12 science education. It addresses two primary objectives: first, the development of custom AI prompts to serve as interactive learning assistants for chemistry concepts; and second, the creation of AI-scaffolded materials to support English Language Learners (ELLs). The aim is to demonstrate how these tools can enhance personalized learning and improve academic accessibility for diverse student populations, drawing from my experience as a high school science teacher.
+This project focuses on integrating artificial intelligence into K-12 science education. It addresses two primary objectives: first, the development of custom AI prompts to serve as interactive learning assistants for science concepts; and second, the creation of AI-scaffolded materials to support English Language Learners (ELLs). The aim is to demonstrate how these tools can enhance personalized learning and improve academic accessibility for diverse student populations, drawing from my experience as a high school science teacher.
 
 ---
 
