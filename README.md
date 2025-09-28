@@ -1,2 +1,36 @@
-# ai-in-education
-Developing a project for AI tools in education. The project focuses on creating custom prompts for chemistry concepts and scaffolding materials for English Language Learners. I aim to apply my experience as a high school teacher to build practical, accessible resources and document the process for other educators.
+# AI Tools in Education Project
+
+## Title: AI Tools in Education: Custom Prompts & ELL Support
+
+## Subtitle: Developing AI-driven resources for high school science classrooms.
+
+---
+
+### Abstract
+
+This project focuses on integrating artificial intelligence into K-12 science education. It addresses two primary objectives: first, the development of custom AI prompts to serve as interactive learning assistants for chemistry concepts; and second, the creation of AI-scaffolded materials to support English Language Learners (ELLs). The aim is to demonstrate how these tools can enhance personalized learning and improve academic accessibility for diverse student populations, drawing from my experience as a high school science teacher.
+
+---
+
+### Project Details
+
+* **Category:** Education Technology
+* **Project Type:** AI Application, Curriculum Development
+* **Date:** 2025-09-27
+* **Author:** Murat Kahveci
+* **Status:** In Progress
+* **Keywords:** AI in education, physics, chemistry, ELL support, prompt engineering, Python, CPS
+
+---
+
+### Repository Structure
+
+- `/prompts`: Contains files with examples of custom prompts.
+- `/data`: Holds sample data sets for ELL support tools.
+- `/scripts`: Python scripts for parsing and processing project data.
+
+---
+
+### Citation
+
+This project is a personal initiative to explore the practical application of AI in the classroom. Feel free to use the concepts or code, with appropriate attribution.
