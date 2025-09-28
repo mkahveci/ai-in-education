@@ -15,9 +15,8 @@ This project focuses on integrating artificial intelligence into K-12 science ed
 
 ### Repository Structure
 
-- `/prompts`: Contains files with examples of custom prompts.
-- `/data`: Holds sample data sets for ELL support tools.
-- `/scripts`: Python scripts for parsing and processing project data.
+- `README.md`: Contains project details.
+- `/data`: Contains files with examples of custom prompts.
 
 ### 💡 Custom Prompt Library
 
