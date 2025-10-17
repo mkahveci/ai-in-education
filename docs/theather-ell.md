@@ -1,6 +1,6 @@
 ---
 layout: projectgit
-title: theather-ell[theather-ell.md](theather-ell.md)
+title: theather-ell
 project: ai-in-education
 repo: mkahveci/ai-in-education
 permalink: /:path/:basename:output_ext

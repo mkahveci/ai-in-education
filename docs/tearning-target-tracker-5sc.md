@@ -13,7 +13,8 @@ permalink: /:path/:basename:output_ext
     </header>
 
     <div class="row">
-        <div class="col-lg-8">
+        
+        <div class="col-lg-8 col-12">
             <section class="mb-5">
                 <h2 class="h3 mb-3 text-secondary">Overview and Core Design</h2>
                 <p>This system is built around a single, reusable template file that you can copy for each new **Learning Target**. It features automated reporting and is designed for fast, error-proof data entry on both desktop and mobile devices.</p>
@@ -38,8 +39,8 @@ permalink: /:path/:basename:output_ext
             </section>
         </div>
 
-        <div class="col-lg-4">
-            <aside class="sticky-top" style="top: 20px;">
+        <div class="col-lg-4 col-12">
+            <aside class="mb-5">
                 <div class="card shadow-sm bg-light">
                     <div class="card-body">
                         <h4 class="card-title text-center text-primary mb-3"><i class="fas fa-link me-2"></i> Key Resources</h4>
