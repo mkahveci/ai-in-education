@@ -26,11 +26,9 @@ This project compiles a curated library of custom prompts addressing specific ed
 For best results, copy the full "Prompt Text" from the linked Markdown file and paste it into your preferred large language model (LLM), such as Gemini, ChatGPT, or Claude.
 
 **1. Copy the Prompt**
-
 **2. Paste into LLM**
 
 The core of the system instruction is usually at the top of the prompt text.
-
 
 ### Citation
 
